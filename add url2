@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Demo html </title></head>
+  <body><h1 style="background-color:Blue;">Welcome to Git</h1></body>
+  <p><a href="https://www.w3schools.com/git/">Learn Git</a></p>
+</html>
